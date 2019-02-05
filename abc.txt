@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 647D-7D9F
+
+ Directory of D:\jenkins\javaproject
+
+02/05/2019  12:44 PM    <DIR>          .
+02/05/2019  12:44 PM    <DIR>          ..
+02/05/2019  12:44 PM                 0 abc.txt
+02/05/2019  11:21 AM               675 Hello.class
+02/05/2019  11:17 AM               157 Hello.java
+               3 File(s)            832 bytes
+               2 Dir(s)  272,623,001,600 bytes free
